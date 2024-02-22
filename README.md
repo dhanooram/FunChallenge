@@ -1,0 +1,2 @@
+# FunChallenge
+CrossMint Challenge
