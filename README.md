@@ -44,4 +44,3 @@ This Java application is designed to read a goal map for a given candidate ID fr
 - The application is designed to handle rate limiting from the API server by implementing a retry mechanism with an increasing delay between retries.
 - Ensure that the number of threads (`numThreads`) is set to an appropriate value to prevent 429 responses from the server.
 
-Feel free to adjust the application based on your specific requirements and API server limitations.
